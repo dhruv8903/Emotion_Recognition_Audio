@@ -1,0 +1,10 @@
+streamlit
+torch
+torchaudio
+transformers
+librosa
+soundfile
+numpy
+safetensors
+matplotlib
+seaborn
